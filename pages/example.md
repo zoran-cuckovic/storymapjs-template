@@ -9,4 +9,9 @@ storymap: demo-storymap.json
 ---
 
 Content can be written in Markdown above a StoryMap.
-This example StoryMap is added using an existing StoryMapJS format JSON file with media hosted externally, featuring items from [University of Idaho Library's William Allen Stonebraker Collection](https://www.lib.uidaho.edu/digital/stonebraker/about.html).
+This example StoryMap is added using an existing StoryMapJS format  JSON file with media hosted externally, featuring items from [University of Idaho Library's William Allen Stonebraker Collection](https://www.lib.uidaho.edu/digital/stonebraker/about.html).
+
+---
+Data : 22
+---
+Test data
